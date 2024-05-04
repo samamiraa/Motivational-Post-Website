@@ -4,7 +4,22 @@ body {
 }
 
 img {
-    margin-left: 25%;
+    width: 100%;
     margin-top: 100px;
-    border: 10px solid black;
+    border: 7px solid black;
+}
+
+h1 {
+    text-transform: uppercase;
+}
+
+#image {
+    width: 50%;
+    margin-left: 25%;
+}
+
+#text {
+    margin-top: 40px;
+    text-align: center;
+    color: antiquewhite;
 }
