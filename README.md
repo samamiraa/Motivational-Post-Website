@@ -1,7 +1,7 @@
 # Motivational-Post-Website
 
 ## Live URL
-
+https://samamiraa.github.io/Motivational-Post-Website/
 
 ## Description
 
