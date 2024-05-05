@@ -10,8 +10,8 @@ Motivational Post Website created with HTML and basic CSS styling. Starter code 
 
 ## Credits
 
-UDEMY Complete 2024 Full Stack Web Dev Course by Angela Yu
-https://github.com/angelabauer
+UDEMY Complete 2024 Full Stack Web Dev Course by Angela Yu <br>
+https://github.com/angelabauer<br>
 https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
 
 ## License
@@ -21,7 +21,7 @@ https://developer.mozilla.org/en-US/docs/Web/CSS/text-transform
 
 ## Badges
 
-![HTML](https://img.shields.io/badge/HTML-50%25-blue
+![HTML](https://img.shields.io/badge/HTML-68%25-blue
 )
-![CSS](https://img.shields.io/badge/CSS-50%25-orange
+![CSS](https://img.shields.io/badge/CSS-32%25-orange
 )
